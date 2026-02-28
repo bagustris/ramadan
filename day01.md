@@ -1,14 +1,14 @@
-# Day 0
+# Day 01
 
 ## Quran: Juz 1  
 
-# Hadis
+## Hadis
 
-# Q&A 
+## Q&A 
 Dalam hadits dinyatakan, “Berpuasalah kamu ketika melihat bulan dan berhari rayalah kamu ketika
 melihat bulan”. Apakah kata ‘melihat’ disini boleh diinterpretasikan sebagai melihat secara ilmiah,
 bukan melihat dengan mata kepala, untuk menyatukan awal bulan Ramadhan?  
----
+---  
 Dalam masalah kita ini, hadits mengaitkan puasa dan hari raya
 dengan melihat Hilal, jika tidak terlihat dengan mata kepala, maka kita menggunakan ilmu pengetahuan.
 Bimbingan agar menyempurnakan jumlah hari bulan Sya’ban menjadi tiga puluh hari adalah arahan

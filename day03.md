@@ -1,4 +1,8 @@
-# Day 2
+# Day 03 
+
+## Quran: Juz 3
+
+## Hadist  
 
 ## Q&A  
 Seseorang memulai puasanya di Mesir sesuai penetapan awal Ramadhan di Mesir. Kemudian ia pergi ke
