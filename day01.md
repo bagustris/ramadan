@@ -20,4 +20,6 @@ dinyatakan oleh hadits. Ru’yah adalah dasar, akan tetapi tidak berpedoman kepa
 tidak ada kepercayaan yang sangat kuat.   
 3. Berpedoman kepada Hisab dalam penetapan masuknya bulan Ramadhan apabila tidak dapat
 diwujudkan lewat Ru’yah dan tidak mungkin menyempurnakan jumlah hari bulan sebelumnya
-menjadi tiga puluh hari. (Syekh ‘Athiyyah Shaqar)
+menjadi tiga puluh hari.  
+
+(Syekh ‘Athiyyah Shaqar)

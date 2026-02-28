@@ -6,8 +6,10 @@
 
 # Q&A  
 
-Apakah boleh berpuasa mengikuti Ru’yah di Negara lain, bukan mengikuti Ru’yah Negara tempat tinggal? 
+Apakah boleh berpuasa mengikuti Ru’yah di Negara lain, bukan mengikuti Ru’yah Negara tempat tinggal?  
+
 ---  
+
 Tidak selayaknya penduduk suatu Negara melaksanakan puasa dan berhari raya mengikuti Negara lain
 berbeda dengan Ru’yah yang ditetapkan Negara bersangkutan. Ini berdasarkan riwayat dari Kuraib
 bahwa Ummu al-Fadhl binti al-Harits mengutus Kuraib kepada Mu’awiyah di negeri Syam, ia berkata,
@@ -20,4 +22,5 @@ melihatnya. Mereka melaksanakan puasa dan Mu’awiyah juga melaksanakan puasa”
 Abbas berkata, “Akan tetapi kami melihat hilal pada malam Sabtu. Kita terus melaksanakan puasa
 hingga kita sempurnakan tiga puluh hari, atau hingga kita melihat hilal (Syawal)”. Saya katakan, “Apakah
 tidak cukup dengan Ru’yah dan puasa Mu’awiyah?”. Abdullah bin Abbas menjawab, “Tidak, demikianlah
-Rasulullah Saw memerintahkan kita”. (Dr. Ali Jumah)
+Rasulullah Saw memerintahkan kita”.  
+(Dr. Ali Jumah)
