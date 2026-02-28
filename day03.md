@@ -1,4 +1,6 @@
-# Q&A  
+# Day 2
+
+## Q&A  
 Seseorang memulai puasanya di Mesir sesuai penetapan awal Ramadhan di Mesir. Kemudian ia pergi ke
 negeri lain yang hari rayanya berbeda dengan Mesir. Apa yang ia lakukan di akhir Ramadhan, apakah
 mengikuti hari raya di Mesir atau mengikuti negeri tempat ia berada, meskipun jika itu ia lakukan akan

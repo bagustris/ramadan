@@ -1,4 +1,6 @@
-# Q&A  
+# Day 5
+
+## Q&A  
 Kami membaca di beberapa buku bahwa wanita hamil dan menyusui boleh tidak berpuasa di bulan
 Ramadhan dan wajib membayar Fidyah, tidak wajib meng-qadha’ puasa. Apakah benar demikian?    
 ---

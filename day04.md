@@ -1,4 +1,6 @@
-# Q&A 
+# Day 3
+
+## Q&A 
 Saya lupa berniat puasa pada waktu malam. Kemudian saya teringat setelah fajar bahwa saya belum
 berniat. Apakah puasa saya sah?  
 --- 

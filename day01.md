@@ -1,4 +1,6 @@
-# Quran: Juz 1  
+# Day 0
+
+## Quran: Juz 1  
 
 # Hadis
 

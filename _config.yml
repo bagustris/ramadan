@@ -1,0 +1,4 @@
+remote_theme: bagustris/primer2-theme
+title: Ramadan
+plugins:
+  - jekyll-remote-theme

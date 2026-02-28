@@ -1,4 +1,6 @@
-# Quran: Juz 2
+# Day 1
+
+## Quran: Juz 2
 
 # Hadis
 
