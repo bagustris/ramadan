@@ -1,6 +1,12 @@
 remote_theme: bagustris/primer2-theme
-title: Ramadan
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: Ramadan
+url: "https://bagustris.github.io"
+baseurl: "/ramadan"
+repository: bagustris/ramadan
+
 exclude:
   - README.md
