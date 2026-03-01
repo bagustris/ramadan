@@ -1,4 +1,6 @@
-
+---
+nav_exclude: true
+---
 
 Tulisan ini adalah refleksi saya selama bulan Ramadan. Berisi tiga hal:  
 
