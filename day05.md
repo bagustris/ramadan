@@ -1,12 +1,12 @@
 # Day 05  
 
-## Quran: Juz 5
+## Quran: Juz 5  
 
 ## Hadist  
 
 ## Q&A  
 Apa hukum menggunakan siwak bagi orang yang berpuasa? Dan penggunaan pasta gigi? 
---- 
+---  
 Dianjurkan menggunakan Siwak sebelum Zawal (tergelincir matahari). Adapun setelah tergelincir
 matahari, para ahli Fiqh berbeda pendapat. Sebagian mereka menyatakan makruh hukumnya
 menggosok gigi setelah tergelincir matahari bagi orang yang berpuasa. Adapun pasta gigi, mesti berhati-hati dalam menggunakannya agar tidak masuk ke dalam

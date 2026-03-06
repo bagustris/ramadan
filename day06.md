@@ -8,7 +8,7 @@
 ## Q&A  
 Kami membaca di beberapa buku bahwa wanita hamil dan menyusui boleh tidak berpuasa di bulan
 Ramadhan dan wajib membayar Fidyah, tidak wajib meng-qadha’ puasa. Apakah benar demikian?    
----
+---  
 **Menurut Mazhab Maliki**: wanita hamil dan ibu menyusui, jika melaksanakan puasa dikhawatirkan akan
 sakit atau bertambah sakit, apakah yang dikhawatirkan itu dirinya, atau anaknya, atau dirinya saja, atau
 anaknya saja. Mereka boleh berbuka dan wajib melaksanakan qadha’, tidak wajib membayar fidyah bagi

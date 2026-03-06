@@ -4,10 +4,9 @@
 
 ## Hadist  
 
-## Q&A
+## Q&A  
 
-Saya tidak melaksanakan beberapa hari di bulan Ramadhan karena uzur, saya tidak mampu meng-
-qadha’-nya hingga masuk Ramadhan berikutnya. Apakah saya didenda karena menunda puasa Qadha’?
+Saya tidak melaksanakan beberapa hari di bulan Ramadhan karena uzur, saya tidak mampu mengqadha’-nya hingga masuk Ramadhan berikutnya. Apakah saya didenda karena menunda puasa Qadha’?
 ketika meng-qadha’, apakah wajib berturut-turut atau boleh terpisah-pisah?
 
 ---  
